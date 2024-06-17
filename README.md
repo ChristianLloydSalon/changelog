@@ -4,7 +4,7 @@ This script helps manage changelogs for projects by organizing entries into cate
 1. Clone the repository
 ```bash
 git clone <repository_url>
-cd changelog-script
+cd changelog
 ```
 
 2. Make the script executable
